@@ -1,1 +1,1 @@
-echo "This is my Jenkins github Integration Sample Hello"
+echo "This is my Jenkins github Integration Sample "
